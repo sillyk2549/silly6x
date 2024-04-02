@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MX_Solderable")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/MX_V2/MX_Solderable.pretty")(options "")(descr ""))
   (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/kicad-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Schematic Library")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
 )

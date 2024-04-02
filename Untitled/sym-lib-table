@@ -6,4 +6,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-promicroish")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/marbastlib/symbols/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "/Users/dylanjacobvite/Desktop/important stuff/GitHub/silly6x/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
 )
